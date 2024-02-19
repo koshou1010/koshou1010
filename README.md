@@ -1,7 +1,7 @@
-### Hey 👋, I'm Koshou
+## Hey 👋, I'm Koshou
 
+<p>🔭<em>Software Enginner at <a href="https://singularwings.com/">SingularWings Medical</a></em></p>
 
-- 🔭 I’m currently working on Singular Wings Medical as Software Enginner
   
 Things I code with    
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
@@ -35,3 +35,25 @@ https://simpleicons.org
 https://shields.io/badges
 -->
 
+
+## About Me
+```
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Koshou"
+        self.height = 174
+        self.location = "Hsinchu, Taiwan"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_TW", "en_US"]
+
+    def say_hello(self):
+        print("Thanks for dropping by, have a good day. :)")
+
+
+me = SoftwareEngineer()
+me.say_hello()
+```
