@@ -37,7 +37,7 @@ https://shields.io/badges
 
 
 ## About Me
-```
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
