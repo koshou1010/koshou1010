@@ -1,7 +1,5 @@
 # AboutMe
-<div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=koshou1010&show_icons=true&theme=tokyonight", align= right>
-</div>
+
 ## Language
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
